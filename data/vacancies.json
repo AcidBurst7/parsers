@@ -1,0 +1,1990 @@
+{
+    "list": [
+        {
+            "id": 1000163466,
+            "href": "/vacancies/1000163466",
+            "title": "Python Developer/ DevOps (trading)",
+            "isMarked": false,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2026-01-31T14:32:04+03:00",
+                "title": "31 \u044f\u043d\u0432\u0430\u0440\u044f"
+            },
+            "location": null,
+            "company": {
+                "id": 1000118576,
+                "alias_name": "restadviser",
+                "href": "/companies/restadviser",
+                "title": "\u0420\u0435\u0441\u0442\u0430\u0434\u0432\u0430\u0439\u0437\u0435\u0440",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/008/013/9/logo/medium_859e92b40861e0c278c306fdf18cfdfe.png"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": 230000,
+                "to": 270000,
+                "currency": "rur",
+                "formatted": "\u043e\u0442 230 000 \u0434\u043e 270 000 \u20bd"
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                },
+                {
+                    "title": "RabbitMQ",
+                    "href": "/vacancies/skills/rabbitmq"
+                },
+                {
+                    "title": "Redis",
+                    "href": "/vacancies/skills/redis"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "href": "/vacancies/skills/postgresql"
+                },
+                {
+                    "title": "Docker",
+                    "href": "/vacancies/skills/docker"
+                },
+                {
+                    "title": "Kubernetes",
+                    "href": "/vacancies/skills/kubernetes"
+                },
+                {
+                    "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "href": "/vacancies/skills/bazy-dannyh"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "\u041c\u043e\u0441\u043a\u0432\u0430",
+                    "href": "/vacancies?city_id=678"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": null,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        },
+        {
+            "id": 1000164113,
+            "href": "/vacancies/1000164113",
+            "title": "System \u0421++ developer \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0443 General components",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2026-01-31T11:48:54+03:00",
+                "title": "31 \u044f\u043d\u0432\u0430\u0440\u044f"
+            },
+            "location": null,
+            "company": {
+                "id": 1000117228,
+                "alias_name": "navio",
+                "href": "/companies/navio",
+                "title": "Navio",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/007/879/1/logo/medium_d9b3024d35e55c8f3c7449cba7249cc9.jpg"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                },
+                {
+                    "title": "C++",
+                    "href": "/vacancies/programmist_c_plus_plus"
+                },
+                {
+                    "title": "Linux",
+                    "href": "/vacancies/skills/linux"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "\u041c\u043e\u0441\u043a\u0432\u0430",
+                    "href": "/vacancies?city_id=678"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": {
+                "from": 200000,
+                "to": 309000,
+                "currency": "rur",
+                "formatted": "\u043e\u0442 200 000 \u0434\u043e 309 000 \u20bd"
+            },
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        },
+        {
+            "id": 1000164704,
+            "href": "/vacancies/1000164704",
+            "title": "Python developer HR LLM",
+            "isMarked": true,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2026-01-30T12:49:39+03:00",
+                "title": "30 \u044f\u043d\u0432\u0430\u0440\u044f"
+            },
+            "location": null,
+            "company": {
+                "id": 771646098,
+                "alias_name": "megafon",
+                "href": "/companies/megafon",
+                "title": "\u041c\u0435\u0433\u0430\u0424\u043e\u043d",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/771/607/661/logo/medium_f7e95e28a457ea9ee7d854a61491eaf5.png"
+                },
+                "rating": {
+                    "title": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0432 2025 \u0433\u043e\u0434\u0443",
+                    "value": "4.79",
+                    "href": "/companies/megafon/scores/2025"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                },
+                {
+                    "title": "Kubernetes",
+                    "href": "/vacancies/skills/kubernetes"
+                },
+                {
+                    "title": "Elasticsearch",
+                    "href": "/vacancies/skills/elasticsearch"
+                },
+                {
+                    "title": "LLM",
+                    "href": "/vacancies/skills/llm"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "\u041c\u043e\u0441\u043a\u0432\u0430",
+                    "href": "/vacancies?city_id=678"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": null,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        },
+        {
+            "id": 1000164123,
+            "href": "/vacancies/1000164123",
+            "title": "Python Backend Developer",
+            "isMarked": false,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2026-01-27T14:08:57+03:00",
+                "title": "27 \u044f\u043d\u0432\u0430\u0440\u044f"
+            },
+            "location": null,
+            "company": {
+                "id": 1000132651,
+                "alias_name": "harakiriru",
+                "href": "/companies/harakiriru",
+                "title": "Hard Bootstrapping LLC.",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/009/421/4/logo/medium_f11866a659780815265863da311741c9.png"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": 250000,
+                "to": 500000,
+                "currency": "rur",
+                "formatted": "\u043e\u0442 250 000 \u0434\u043e 500 000 \u20bd"
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "href": "/vacancies/skills/postgresql"
+                },
+                {
+                    "title": "Docker",
+                    "href": "/vacancies/skills/docker"
+                },
+                {
+                    "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "href": "/vacancies/skills/bazy-dannyh"
+                },
+                {
+                    "title": "WebSockets",
+                    "href": "/vacancies/skills/websockets"
+                },
+                {
+                    "title": "FastAPI",
+                    "href": "/vacancies/skills/fastapi"
+                },
+                {
+                    "title": "AWS",
+                    "href": "/vacancies/skills/amazon-aws"
+                },
+                {
+                    "title": "Redis",
+                    "href": "/vacancies/skills/redis"
+                },
+                {
+                    "title": "Git",
+                    "href": "/vacancies/skills/git"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+                    "href": "/vacancies?city_id=679"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": null,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        },
+        {
+            "id": 1000162802,
+            "href": "/vacancies/1000162802",
+            "title": "Python-backend developer \u0432 AI-\u043a\u043e\u043c\u0430\u043d\u0434\u0443 \u0431\u044d\u043a\u043e\u0444\u0438\u0441\u0430",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2026-01-26T15:27:33+03:00",
+                "title": "26 \u044f\u043d\u0432\u0430\u0440\u044f"
+            },
+            "location": null,
+            "company": {
+                "id": 1000094112,
+                "alias_name": "psb",
+                "href": "/companies/psb",
+                "title": "\u041f\u0421\u0411 \u0446\u0438\u0444\u0440\u043e\u0432\u0430\u044f \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/005/567/5/logo/medium_c67221b00c2469f8c3f380062ab73223.png"
+                },
+                "rating": {
+                    "title": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0432 2024 \u0433\u043e\u0434\u0443",
+                    "value": "4.61",
+                    "href": "/companies/psb/scores/2024"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                },
+                {
+                    "title": "FastAPI",
+                    "href": "/vacancies/skills/fastapi"
+                },
+                {
+                    "title": "CI/CD",
+                    "href": "/vacancies/skills/ci-cd-methodologies"
+                },
+                {
+                    "title": "Apache Kafka",
+                    "href": "/vacancies/skills/kafka"
+                },
+                {
+                    "title": "LLM",
+                    "href": "/vacancies/skills/llm"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "\u041c\u043e\u0441\u043a\u0432\u0430",
+                    "href": "/vacancies?city_id=678"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": {
+                "from": 170000,
+                "to": 260000,
+                "currency": "rur",
+                "formatted": "\u043e\u0442 170 000 \u0434\u043e 260 000 \u20bd"
+            },
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        },
+        {
+            "id": 1000159611,
+            "href": "/vacancies/1000159611",
+            "title": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+            "isMarked": false,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2026-01-26T14:27:07+03:00",
+                "title": "26 \u044f\u043d\u0432\u0430\u0440\u044f"
+            },
+            "location": null,
+            "company": {
+                "id": 1000108620,
+                "alias_name": "irlix",
+                "href": "/companies/irlix",
+                "title": "IRLIX",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/007/018/3/logo/medium_a223d337e2d17d88f95133dd0feaaeea.jpg"
+                },
+                "rating": {
+                    "title": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0432 2025 \u0433\u043e\u0434\u0443",
+                    "value": "4.59",
+                    "href": "/companies/irlix/scores/2025"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                },
+                {
+                    "title": "SQL",
+                    "href": "/vacancies/programmist_sql"
+                },
+                {
+                    "title": "Docker",
+                    "href": "/vacancies/skills/docker"
+                },
+                {
+                    "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "href": "/vacancies/skills/bazy-dannyh"
+                }
+            ],
+            "media": null,
+            "locations": null,
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": {
+                "from": 195000,
+                "to": 267000,
+                "currency": "rur",
+                "formatted": "\u043e\u0442 195 000 \u0434\u043e 267 000 \u20bd"
+            },
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        },
+        {
+            "id": 1000164434,
+            "href": "/vacancies/1000164434",
+            "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0431\u044d\u043a\u0435\u043d\u0434\u0430 \u0432 \u042f\u043d\u0434\u0435\u043a\u0441 \u041e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2026-01-26T14:21:33+03:00",
+                "title": "26 \u044f\u043d\u0432\u0430\u0440\u044f"
+            },
+            "location": null,
+            "company": {
+                "id": 548707872,
+                "alias_name": "yandex",
+                "href": "/companies/yandex",
+                "title": "\u042f\u043d\u0434\u0435\u043a\u0441",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/548/669/435/logo/medium_586e9aeb81f9123e31337c951432b4ba.png"
+                },
+                "rating": {
+                    "title": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0432 2025 \u0433\u043e\u0434\u0443",
+                    "value": "3.62",
+                    "href": "/companies/yandex/scores/2025"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                },
+                {
+                    "title": "Golang",
+                    "href": "/vacancies/skills/golang"
+                },
+                {
+                    "title": "MongoDB",
+                    "href": "/vacancies/skills/mongodb"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "href": "/vacancies/skills/postgresql"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "\u041c\u043e\u0441\u043a\u0432\u0430",
+                    "href": "/vacancies?city_id=678"
+                },
+                {
+                    "title": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+                    "href": "/vacancies?city_id=679"
+                },
+                {
+                    "title": "\u041c\u0438\u043d\u0441\u043a",
+                    "href": "/vacancies?city_id=713"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": {
+                "from": 203000,
+                "to": 342000,
+                "currency": "rur",
+                "formatted": "\u043e\u0442 203 000 \u0434\u043e 342 000 \u20bd"
+            },
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        },
+        {
+            "id": 1000164426,
+            "href": "/vacancies/1000164426",
+            "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0431\u044d\u043a\u0435\u043d\u0434\u0430 (Python/Django) \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0443 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u043e\u0432",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2026-01-26T10:30:04+03:00",
+                "title": "26 \u044f\u043d\u0432\u0430\u0440\u044f"
+            },
+            "location": null,
+            "company": {
+                "id": 548707872,
+                "alias_name": "yandex",
+                "href": "/companies/yandex",
+                "title": "\u042f\u043d\u0434\u0435\u043a\u0441",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/548/669/435/logo/medium_586e9aeb81f9123e31337c951432b4ba.png"
+                },
+                "rating": {
+                    "title": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0432 2025 \u0433\u043e\u0434\u0443",
+                    "value": "3.62",
+                    "href": "/companies/yandex/scores/2025"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "href": "/vacancies/skills/postgresql"
+                },
+                {
+                    "title": "Django",
+                    "href": "/vacancies/django_razrabotchik"
+                },
+                {
+                    "title": "Celery",
+                    "href": "/vacancies/skills/celery"
+                },
+                {
+                    "title": "Redis",
+                    "href": "/vacancies/skills/redis"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "\u041c\u043e\u0441\u043a\u0432\u0430",
+                    "href": "/vacancies?city_id=678"
+                },
+                {
+                    "title": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+                    "href": "/vacancies?city_id=679"
+                },
+                {
+                    "title": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433",
+                    "href": "/vacancies?city_id=693"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": {
+                "from": 150000,
+                "to": 250000,
+                "currency": "rur",
+                "formatted": "\u043e\u0442 150 000 \u0434\u043e 250 000 \u20bd"
+            },
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        },
+        {
+            "id": 1000164429,
+            "href": "/vacancies/1000164429",
+            "title": "Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Python)",
+            "isMarked": true,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2026-01-19T15:46:04+03:00",
+                "title": "19 \u044f\u043d\u0432\u0430\u0440\u044f"
+            },
+            "location": null,
+            "company": {
+                "id": 1000129055,
+                "alias_name": "unicorns-club",
+                "href": "/companies/unicorns-club",
+                "title": "\u042e\u043d\u0438\u043a\u043e\u0440\u043d\u0441",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/009/061/8/logo/medium_de9df845745c7df623a3fea2e99ec206.png"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "PostgreSQL",
+                    "href": "/vacancies/skills/postgresql"
+                },
+                {
+                    "title": "MongoDB",
+                    "href": "/vacancies/skills/mongodb"
+                },
+                {
+                    "title": "Redis",
+                    "href": "/vacancies/skills/redis"
+                },
+                {
+                    "title": "Celery",
+                    "href": "/vacancies/skills/celery"
+                },
+                {
+                    "title": "Docker",
+                    "href": "/vacancies/skills/docker"
+                },
+                {
+                    "title": "FastAPI",
+                    "href": "/vacancies/skills/fastapi"
+                },
+                {
+                    "title": "Pytest",
+                    "href": "/vacancies/skills/pytest"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                }
+            ],
+            "media": null,
+            "locations": null,
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": null,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        },
+        {
+            "id": 1000164292,
+            "href": "/vacancies/1000164292",
+            "title": "Backend-developer",
+            "isMarked": false,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2026-01-13T14:26:56+03:00",
+                "title": "13 \u044f\u043d\u0432\u0430\u0440\u044f"
+            },
+            "location": null,
+            "company": {
+                "id": 1000093191,
+                "alias_name": "alabuga",
+                "href": "/companies/alabuga",
+                "title": "\u0410\u043b\u0430\u0431\u0443\u0433\u0430",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/005/475/4/logo/medium_0c9cc9f80dee7e3af8109daf69f3c176.jpeg"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": 157500,
+                "to": null,
+                "currency": "rur",
+                "formatted": "\u043e\u0442 157 500 \u20bd"
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                },
+                {
+                    "title": "FastAPI",
+                    "href": "/vacancies/skills/fastapi"
+                },
+                {
+                    "title": "\u0410\u0441\u0438\u043d\u0445\u0440\u043e\u043d\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+                    "href": "/vacancies/skills/asynchrony"
+                },
+                {
+                    "title": "WebSockets",
+                    "href": "/vacancies/skills/websockets"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "href": "/vacancies/skills/postgresql"
+                },
+                {
+                    "title": "Redis",
+                    "href": "/vacancies/skills/redis"
+                },
+                {
+                    "title": "Docker",
+                    "href": "/vacancies/skills/docker"
+                },
+                {
+                    "title": "Clean Architecture",
+                    "href": "/vacancies/skills/clean-architecture"
+                },
+                {
+                    "title": "RESTful API",
+                    "href": "/vacancies/skills/restful-api"
+                },
+                {
+                    "title": "Pytest",
+                    "href": "/vacancies/skills/pytest"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "\u0415\u043b\u0430\u0431\u0443\u0433\u0430",
+                    "href": "/vacancies?city_id=3314"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": null,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        },
+        {
+            "id": 1000163524,
+            "href": "/vacancies/1000163524",
+            "title": "\u0421\u0442\u0430\u0440\u0448\u0438\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (backend)",
+            "isMarked": false,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2026-01-12T15:27:03+03:00",
+                "title": "12 \u044f\u043d\u0432\u0430\u0440\u044f"
+            },
+            "location": null,
+            "company": {
+                "id": 612568145,
+                "alias_name": "ertelecom",
+                "href": "/companies/ertelecom",
+                "title": "\u042d\u0420-\u0422\u0435\u043b\u0435\u043a\u043e\u043c \u0425\u043e\u043b\u0434\u0438\u043d\u0433",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/612/529/708/logo/medium_6fe96276941f778c01c7e4fc2edb3356.png"
+                },
+                "rating": {
+                    "title": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0432 2020 \u0433\u043e\u0434\u0443",
+                    "value": "3.33",
+                    "href": "/companies/ertelecom/scores/2020"
+                }
+            },
+            "employment": null,
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "PHP",
+                    "href": "/vacancies/php_programmist"
+                },
+                {
+                    "title": "JavaScript",
+                    "href": "/vacancies/programmist_javascript"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                },
+                {
+                    "title": "Golang",
+                    "href": "/vacancies/skills/golang"
+                },
+                {
+                    "title": "Yii framework",
+                    "href": "/vacancies/programmist_yii_2"
+                },
+                {
+                    "title": "Apache Airflow",
+                    "href": "/vacancies/skills/airflow"
+                },
+                {
+                    "title": "MySQL",
+                    "href": "/vacancies/skills/mysql"
+                },
+                {
+                    "title": "RESTful API",
+                    "href": "/vacancies/skills/restful-api"
+                },
+                {
+                    "title": "RabbitMQ",
+                    "href": "/vacancies/skills/rabbitmq"
+                },
+                {
+                    "title": "Redis",
+                    "href": "/vacancies/skills/redis"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "\u041f\u0435\u0440\u043c\u044c",
+                    "href": "/vacancies?city_id=722"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": {
+                "from": 156000,
+                "to": 215000,
+                "currency": "rur",
+                "formatted": "\u043e\u0442 156 000 \u0434\u043e 215 000 \u20bd"
+            },
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        },
+        {
+            "id": 1000164246,
+            "href": "/vacancies/1000164246",
+            "title": "Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+            "isMarked": false,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2026-01-08T09:11:56+03:00",
+                "title": "8 \u044f\u043d\u0432\u0430\u0440\u044f"
+            },
+            "location": null,
+            "company": {
+                "id": 1000135674,
+                "alias_name": "sindbadcity",
+                "href": "/companies/sindbadcity",
+                "title": "SindbadCity",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/009/723/7/logo/medium_caafc4348d8a4642861a7f35d81da93f.png"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": 100000,
+                "to": null,
+                "currency": "rur",
+                "formatted": "\u043e\u0442 100 000 \u20bd"
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                },
+                {
+                    "title": "Django",
+                    "href": "/vacancies/django_razrabotchik"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "href": "/vacancies/skills/postgresql"
+                },
+                {
+                    "title": "Redis",
+                    "href": "/vacancies/skills/redis"
+                },
+                {
+                    "title": "Celery",
+                    "href": "/vacancies/skills/celery"
+                }
+            ],
+            "media": null,
+            "locations": null,
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": null,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        },
+        {
+            "id": 1000163401,
+            "href": "/vacancies/1000163401",
+            "title": "Python developer ",
+            "isMarked": false,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 (Middle)",
+                "href": "/vacancies?qid=4"
+            },
+            "publishedDate": {
+                "date": "2025-12-16T14:24:25+03:00",
+                "title": "16 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025"
+            },
+            "location": null,
+            "company": {
+                "id": 1000110159,
+                "alias_name": "greenwayglobal",
+                "href": "/companies/greenwayglobal",
+                "title": "Greenway Global",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/007/172/2/logo/medium_02bb947ca0f2a9037105c7ffc944370e.png"
+                },
+                "rating": {
+                    "title": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0432 2025 \u0433\u043e\u0434\u0443",
+                    "value": "4.69",
+                    "href": "/companies/greenwayglobal/scores/2025"
+                }
+            },
+            "employment": null,
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "\u0411\u044d\u043a\u0435\u043d\u0434 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+                    "href": "/vacancies/spec/development/backend"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Redis",
+                    "href": "/vacancies/skills/redis"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies/programmist_python"
+                },
+                {
+                    "title": "MySQL",
+                    "href": "/vacancies/skills/mysql"
+                },
+                {
+                    "title": "Linux",
+                    "href": "/vacancies/skills/linux"
+                },
+                {
+                    "title": "Git",
+                    "href": "/vacancies/skills/git"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a",
+                    "href": "/vacancies?city_id=717"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+            "quickResponseHref": "/api/frontend/quick_responses",
+            "qualification": "Middle",
+            "predictedSalary": {
+                "from": 150000,
+                "to": 247000,
+                "currency": "rur",
+                "formatted": "\u043e\u0442 150 000 \u0434\u043e 247 000 \u20bd"
+            },
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            },
+            "response": {
+                "kind": "guest"
+            },
+            "hasPublishedCBP": false,
+            "color": null
+        }
+    ],
+    "meta": {
+        "totalResults": 13,
+        "perPage": 25,
+        "currentPage": 1,
+        "totalPages": 1
+    },
+    "recommendedQuickVacancies": []
+}
